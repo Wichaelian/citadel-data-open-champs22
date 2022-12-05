@@ -1,4 +1,4 @@
-# [Insert Project Title]
+# [Paying for Performance: Budget Diagnostics for Postsecondary Education]
 
 Working repository of Team #21's submission to the Citadel-Correlation One Data Open Championship 2022
 
